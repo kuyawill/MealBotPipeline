@@ -5,10 +5,10 @@ from mysql.connector import Error
 def fetch_latest_data_to_dataframe():
     try:
         connection = mysql.connector.connect(
-            host = "localhost",
-            database = "sql_bantaypresyodb",
-            user = "",
-            password = ""
+            host = "localhost", #this localhost database
+            database = "dbname", #add your database name
+            user = "username", #add your user name
+            password = "pass" #add your password name
         )
 
         if connection.is_connected():
