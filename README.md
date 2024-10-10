@@ -1,6 +1,10 @@
 # 👨‍🍳 Mealbot - Filipino Recipe Generator with Real-Time Market Prices
 https://youtu.be/YGY6Enao9FI
 
+
+
+
+
 A Streamlit-powered chatbot that generates Filipino recipes while incorporating current market prices from Metro Manila markets.
 
 ## 🌟 Features
